@@ -1,0 +1,19 @@
+.btnList {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(127, 197, 197);
+  border: none;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.btn:hover {
+  scale: 1.1;
+  background-color: rgb(85, 154, 154);
+}

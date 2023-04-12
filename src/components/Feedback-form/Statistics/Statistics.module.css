@@ -1,0 +1,14 @@
+.statsList {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.statItem {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.statSpan {
+  font-weight: 400;
+}
