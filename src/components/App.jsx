@@ -23,6 +23,7 @@ export function App() {
         break;
       case 'bad':
         setBad(prevState => prevState + 1);
+        break;
       default:
         return;
     }
